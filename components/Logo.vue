@@ -1,6 +1,6 @@
 <template>
   <div class="VueToNuxtLogo">
-6666666
+666
   </div>
 </template>
 
