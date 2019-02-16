@@ -1,6 +1,6 @@
 <template>
   <div class="VueToNuxtLogo">
-666
+    你大。。。。爷的
   </div>
 </template>
 
