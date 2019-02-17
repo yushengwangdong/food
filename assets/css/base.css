@@ -906,7 +906,7 @@ b {
 	border: 1px solid #E8E8E8;
 }
 .border_red {
-	border: 1px solid red !improtant;
+	border: 1px solid red ;
 	box-shadow: 0 0 3px red;
 }
 
