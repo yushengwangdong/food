@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        myFood
+       <nuxt-link to="/ProductDetail">myfood</nuxt-link>
       </h1>
       <h2 class="subtitle">
         My supreme Nuxt.js project
