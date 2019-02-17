@@ -20,6 +20,8 @@
     }
 </script>
 
-<style scoped>
+<style scoped lang="css">
+@import '@/assets/css/base.css';
 
+@import '@/assets/css/style.css';
 </style>
