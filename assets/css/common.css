@@ -378,7 +378,7 @@ li:after{
     z-index: 22;
 }
 /* IE6浏览器的特有方法 -- 修正IE6振动bug */
-* html,* html body {;background-attachment: fixed;}
+* html,* html body {background-attachment: fixed;}
 * html .fixedBox {position: absolute;}
 .fixedBox ul.fixedBoxList { box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);margin-top:120px; padding-top:10px; width:60px; position:relative; right:60px;background:#90b830; }
 .fixedBox ul.fixedBoxList li.fixeBoxLi.fixeBoxLi {

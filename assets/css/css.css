@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 .top {
 	padding-top: 5px;
 	overflow: hidden;
@@ -1369,10 +1369,8 @@
 	/*width: 256px;*/
 	width: 216px;
 	height: 216px;
- 　 /*　width: expression(document.body.clientWidth >
-		                                  
-		   256 ?     
-		
+}
+
 		    
 		             
 		             "256px" :               

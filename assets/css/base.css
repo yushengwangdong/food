@@ -640,7 +640,7 @@ li {
 }
 
 .padding-r40 {
-	paading-right: 40px;
+	padding-right: 40px;
 }
 
 .padding-t5 {
@@ -668,7 +668,7 @@ li {
 }
 
 .paading-t40 {
-	paading-top: 40px;
+	padding-top: 40px;
 }
 
 .padding-t45 {
@@ -680,7 +680,7 @@ li {
 }
 
 .paading-t75 {
-	paading-top: 75px;
+	padding-top: 75px;
 }
 
 .padding-t95 {
@@ -1034,7 +1034,6 @@ b {
 	display:none;
 }
 .tip_div span,.tip_div a{ position:relative;  }
-.tip_div .tip_span{ /*position:absolute;*/}
 
 .tip_span {
 	/*float: left;*/
