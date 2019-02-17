@@ -22,7 +22,6 @@
 #allSortOuterbox .hd_allsort_out_box_new .Menu_list .link_name a{ font-size:12px; margin-left:10px; font-family:"新宋体"; color: #888}
 #allSortOuterbox .hd_allsort_out_box_new .Menu_list .Menu_name{ padding:0px 10px; line-height:28px;}
 #allSortOuterbox .hd_allsort_out_box_new .Menu_list .Menu_name span{ font-family:"新宋体"; color:#888; float:left; margin-right:10px}
-#allSortOuterbox .hd_allsort_out_box_new .Menu_list .name.on{ }
 #allSortOuterbox .hd_allsort_out_box_new .Menu_list .name em{ 
 	background:url(../images/pwd-icons-new.png) -3px -333px no-repeat; 
 	padding:1px 5px;
@@ -243,7 +242,7 @@
 .slideGroup .parBd ul li .title h3 b{ font-weight:normal; font-size:14px}
 .slideGroup .parBd ul li .title .name{ font-size:12px; height:36px; margin:5px 0px; line-height:18px; overflow:hidden}
 /**********广告样式属性*******/
-.Ads_style{}
+
 .Ads_style a{ display:block; width:318px; float:left;}
 /****************板块样式属性****************/
 .Plate_column{ width:600px; float:left; margin-bottom:20px;}
@@ -390,7 +389,7 @@
 	overflow: hidden;
 	text-overflow: ellipsis;
 	white-space: nowrap;
-	course: hand;
+	cursor: hand;
 }
 .Filter .Filter_list .more {position: absolute;right: 30px;top: 10px;}
 .Filter .search-container .Select_position{ display:block}
@@ -770,7 +769,6 @@ a.Next_btn{
 	border-radius:3px;
 	cursor:pointer;
 }
-.Bulletin_style .Bulletin_list{}
 .Bulletin_style .Bulletin_content .Bulletin_time{ margin-bottom:10px; background-color:#ededed; height:30px; line-height:30px; padding:0px 20px; }
 .Bulletin_style .Bulletin_content{ line-height:24px; font-size:14px;color:#666666; padding:10px 0px; border-bottom:1px dashed #ddd;}
 .Bulletin_style .Bulletin_list .Bulletin_btn{ text-align:right; margin-top:10px; line-height:30px; height:30px}
@@ -805,8 +803,6 @@ a.Next_btn{
 .add_Bulletin .add_shops_style .submit_btn{ background-color:#F60}
 .add_Bulletin .add_shops_style .cancel_btn{ background-color:#CCC}
 .add_Bulletin .add_shops_style .submit_btn:hover{ background-color: #F90}
-<<<<<<< .mine
-.add_Bulletin .add_shops_style .cancel_btn:hover{ background-color: #999}
 /**************************商品专区样式属性***************************/
 .Products_area_style{ margin:20px 0px;}
 .Products_area_style .Add_product_style{ height:30px; line-height:30px; padding:10px 0px; border-bottom:1px dashed #ddd;}
@@ -903,7 +899,7 @@ a.Next_btn{
 .Release_product_style table td{font-size:14px; color:#666666; padding:10px 0px;}
 .Release_product_style table td .addtext{ border:1px solid  #ddd;  height:30px; padding:0px 10px; }
 .Release_product_style table td select{ height:30px; width:150px;border:1px solid  #ddd;}
-.Release_product_style table td .Spec_style{}
+
 .Release_product_style table td .Spec_style li{ float:left; margin-right:10px; border:1px solid #ddd; padding:0px 10px;}
 .Release_product_style table td .add_Spec{ height:30px; padding:10px 0px;position:relative}
 .Release_product_style table td .add_Spec a{
@@ -1074,7 +1070,7 @@ a.Next_btn{
 .Order_Operation .add_Ordertext{ height:30px; border:1px solid #ddd; padding:0px 5px; margin:9px 0px; width:300px; }
 /***********************发货管理样式属性***************************/
 .Delivery_style{ margin:20px 0px;}
-.Delivery_style .hd{}
+
 .Delivery_style .hd ul{ height:50px; line-height:49px; border-bottom:1px solid #ddd;}
 .Delivery_style .hd li{ float:left; border:1px solid #ddd; padding:0px 20px; font-size:16px; margin-right:20px;-moz-border-radius:5px 5px 0px 0px; -webkit-border-radius:5px 5px 0px 0px;  border-radius:5px 5px 0px 0px; background-color:#90b830; color:#FFF; cursor:pointer;}
 .Delivery_style .hd li.on{ background-color:#FFF; color:#333; border-bottom:1px solid #fff;}
@@ -1107,7 +1103,6 @@ a.Next_btn{
 .Freight_template .Case_style h4{ margin-bottom:10px;}
 .Freight_template table.Case_list td{ border:1px solid #ddd; height:30px; line-height:30px; padding:5px 10px; text-align:center}
 .Freight_template table.Case_list .title_name{ background-color:#D2EDFD; font-size:16px;}
-.Freight_template table.Case_list .label_name{}
 .Freight_template table.Case_list.confirm_yunfei .label_name{ background-color:#ededed}
 /****************添加运费模板样式属性****************/
 .add_yfmb_style{ padding:20px;}
@@ -1165,7 +1160,6 @@ a.Next_btn{
 #Account_bank .addAccount_style .WeChat_style{ display:none}
 .Account_style .Bank_card_style.hover_bank{ background-color:#ededed}
 .Account_style .Bank_card_style.hover_bank .btn{ background-color:#90B830; border:1px solid #90B830; color:#FFF}
-.Account_style .Bank_card_style.add_Account .zfb_btn{  }
 .Account_style .add_Account .btn{ 
 display:block; 
 font-size:18px; 
@@ -1350,4 +1344,3 @@ margin-top:65px;
 .Message_content .bd .system_info li{ line-height:30px; height:30px; border-bottom:1px dashed #ddd;}
 .Message_content .bd .system_info li i{ color:#F60; margin-right:5px;}
 #Message_content .Appraisal_style{ margin:0px; padding:0px}
-#Message_content .Appraisal_style .Appraisal_list table{}

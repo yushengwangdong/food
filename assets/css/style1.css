@@ -129,8 +129,7 @@
 	background: url(../images/shortcut.png) no-repeat;
 	background-position: 0 -33px;
 }
-.shortcut_btn ul li a:hover {
-}
+
 .i_gzlm {
 	background-position: 0px -33px !important;
 }
@@ -172,8 +171,7 @@
 	font-size: 14px;
 	font-family: "Microsoft YaHei", "微软雅黑";
 }
-.banner {
-}
+
 /*mainnav*/
 .mainnavContainer {
 	height: 40px;
@@ -313,8 +311,7 @@
 .column-all-right-banner {
 	overflow: hidden;
 }
-.sort .sort-ti, .sort .sort-list li a span, .sort .sort-list li.hover, .sort .sort-list ul li.hover ul li a {
-}
+
 .sort {
 	width: 245px;
 	height: auto;
@@ -389,8 +386,7 @@
 .sort .sort-list ul li.hover ul li a {
 	color: #333;
 }
-.sort .sort-list ul li.hover ul li a:hover {
-}
+
 .pos01 {
 	position: absolute;
 	left: 245px;
@@ -856,8 +852,7 @@ div#slideshow, div#slideshow2, div#slideshow3, div#slideshow4 {
 .pro_detail_score ul li {
 	float: left;
 }
-.pro_detail_market {
-}
+
 .pro_detail_number {
 	line-height: 25px;
 }
@@ -889,8 +884,7 @@ div#slideshow, div#slideshow2, div#slideshow3, div#slideshow4 {
 .pro_detail_btn {
 	overflow: hidden;
 }
-.pro_detail_btn ul {
-}
+
 .pro_detail_btn ul li {
 	float: left;
 }

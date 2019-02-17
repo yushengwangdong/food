@@ -241,7 +241,6 @@
 .Record_p .bd ul li .title{ height:40px; line-height:18px;} 
 .Record_p .bd ul li .title a{font-family:"新宋体"; color:#333333; display:block; height:36px; line-height:18px; overflow:hidden}
 .Record_p .bd ul li a:hover{color: #FF6600}
-.Record_p .bd ul li .Purchase_info{}
 .Record_p .bd ul li .p_Price{ color:#FF0000; font-weight:bold; font-size:16px; float:left; margin-top:3px;}
 .Record_p .bd ul li .Purchase{ display:block; float:right; border:1px solid  #999999; color:#999999; padding:5px 10px;}
 .Record_p .bd ul li .Purchase:hover{ border:1px solid #F60}
@@ -250,8 +249,6 @@
 .Collections_p .slideGroups .parHd{ height:40px; line-height:40px; font-size:16px; border-bottom:1px solid #ddd;}
 .Collections_p .slideGroups .parHd li{ float:left; height:40px; line-height:40px; padding:0px 20px; border-left:1px solid #ddd; border-top:1px solid #ddd;border-right:1px solid #ddd;cursor:pointer}
 .Collections_p .slideGroups .parHd li.on{ color:#666; background-color:#FFF; border-bottom:1px solid #ffffff;}
-.Collections_p .slideGroups .parBd{}
-.Collections_p .slideGroups .parBd .tempWrap{ }
 .slideGroup .sPrev, .slideGroup .sNext { z-index:1111}
 .Collections_p .slideGroups  .more{ position:absolute; right:10px; top:-45px; font-size:12px; font-family:"新宋体"; z-index:1112}
 #Collect_products .picList .pic img{ width:130px; height:130px}
@@ -435,7 +432,7 @@
 .shop_tixian .btn_style a{ margin-right:20px; margin-top:10px;}
 .shop_tixian .btn_style a.shopBill_btn{ color:#666666}
 /****列表样式属性****/
-.fenxiao_shops{}
+
 .fenxiao_shops td{ text-align:center; border:1px solid #ddd; height:30px; padding:5px;}
 .fenxiao_shops thead .label_name{ background-color:#ededed; height:30px; line-height:30px; font-size:14px}
 .fenxiao_shops .shop_logo{ display:block; border:1px solid #ddd; height:80px; width:80px; float:left; margin:10px;}
