@@ -740,10 +740,8 @@ a.Next_btn{
 	opacity: 0; 
 	z-index: 2; 
 	cursor: pointer; 
-	_filter : none; 
-	_text-align : left;
 	line-height:34px;
-	_line-height : 34px; 
+
 } 
 /***************************店铺公告样式属性***************************/
 .Bulletin_style{ padding:20px;}

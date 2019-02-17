@@ -1,5 +1,5 @@
 {
-  "name": "myFood",
+  "name": "food",
   "version": "1.0.0",
   "description": "My supreme Nuxt.js project",
   "author": "yushengwangdong",
@@ -16,6 +16,8 @@
     "express": "^4.16.4"
   },
   "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-loader": "^2.1.2",
     "nodemon": "^1.18.9"
   }
 }

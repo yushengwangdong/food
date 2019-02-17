@@ -11,7 +11,7 @@
   import ProductBuy from "@/components/ProductDetail/ProductBuy.vue"
   import ProductComment from "@/components/ProductDetail/ProductComment.vue"
     export default {
-        name: "ProductDetail",
+      name: "ProductDetail",
       components:{
         ProductImg,
         ProductBuy,
@@ -22,6 +22,5 @@
 
 <style scoped lang="css">
 @import '@/assets/css/base.css';
-
 @import '@/assets/css/style.css';
 </style>
