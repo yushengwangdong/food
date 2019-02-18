@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="left_user_cont">
-      <div class="us_Orders left clearfix">
+      <div class="us_Orders left clearfix" >
         <div class="Orders_name">
           <div class="title_name">
             <div class="Records">购买记录</div>
@@ -17,8 +17,8 @@
               <th>操作</th>
             </tr>
           </thead>
-          <tbody>
-            <tr v-for="(item,idx) in list" :key="idx">
+          <tbody v-for="(item,idx) in list" :key="idx">
+            <tr >
               <td class="img_link">
                 <nuxt-link class="img" to>
                   <img :src="item.url" width="80" height="80">
@@ -33,7 +33,7 @@
             </tr>
           </tbody>
         </table>
-        <div class="us_jls">共2条记录</div>
+        <div class="us_jls">共{{list.length}}条记录</div>
       </div>
     </div>
   </div>
