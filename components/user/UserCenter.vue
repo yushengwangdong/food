@@ -3,7 +3,7 @@
     <!--用户中心样式-->
     <div class="user_style clearfix">
       <div class="user_center clearfix">
-        <div class="left_style">
+
           <usernav></usernav>
           <!--浏览记录样式-->
           <!-- <div class="us_Records">
@@ -166,7 +166,6 @@
               </div>
             </div>
           </div> -->
-        </div>
         <div class="right_style">
           <div class="info_content">
             <userboard></userboard>
